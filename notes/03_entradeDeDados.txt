@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+biblioteca para utilizar input;
+
+é necessário stanciar o objeto scanner
+
+Scanner sc = new Scanner(System.in);
+
+
+entrada            forma
+string             string name = sc.next();
+int		   int idade = sc.nextIny();
+double             double pi = sc.nextDouble;
+char               char x = sc.next().charAt(0);
+

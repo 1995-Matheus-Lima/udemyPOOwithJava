@@ -1,0 +1,10 @@
+System.out.print("texto") // sem quebra de linha no final
+System.out.println("texto") // com quebra de linha no final
+
+float x = 12,54321     
+
+System.out.printf("%.2f%n",x)// print formatado com 2 casas decimais : 12,54
+ele  print utilizando virgula como separador, que é um padrão do brasil. mais se quisermos definir para ser em . devemos utilizar o comando.
+
+Locale.setDefault(Locale.US);
+
