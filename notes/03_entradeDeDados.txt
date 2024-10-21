@@ -13,3 +13,6 @@ int		   int idade = sc.nextIny();
 double             double pi = sc.nextDouble;
 char               char x = sc.next().charAt(0);
 
+Ler até uma quebra de linha
+string linha = sc.nextLine();
+

@@ -1,0 +1,5 @@
+Java.lang.Math
+
+a = math.sqrt(x)
+a = math.pow(x,y)
+a = math.abs(x)
